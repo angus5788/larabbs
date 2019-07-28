@@ -62,4 +62,5 @@ class ImageUploadHandler
         // 对图片修改后进行保存
         $image->save();
     }
+
 }
